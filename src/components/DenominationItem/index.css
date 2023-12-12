@@ -1,0 +1,16 @@
+.button {
+  height: 40px;
+  width: 300px;
+  background-color: #382f5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20px;
+  margin-top: 20px;
+  color: white;
+}
+.amount-value {
+  color: #c4c4c4;
+
+  font-weight: bold;
+}

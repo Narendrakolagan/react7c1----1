@@ -1,0 +1,89 @@
+.bg-container {
+  height: 100vh;
+  width: 100vw;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.content-container {
+  background-color: #150b3e;
+  height: 80%;
+  width: 50%;
+  border-radius: 20px;
+}
+.profile-content {
+  margin-top: 50px;
+  margin-left: 20px;
+  background-color: #c7d2fe;
+  height: 50px;
+  width: 50px;
+  border-radius: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.profile-text {
+  color: #7c3aed;
+  font-weight: bold;
+  font-family: Roboto;
+  text-align: center;
+}
+.name {
+  color: #d4d2db;
+  font-size: 20px;
+  margin-left: 30px;
+  margin-top: 60px;
+}
+.profile-container {
+  display: flex;
+}
+.amount-content {
+  display: flex;
+  justify-content: space-between;
+}
+.your-balance {
+  color: #585076;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 30px;
+  margin-left: 30px;
+}
+.lists {
+  display: flex;
+  justify-content: center;
+}
+.amount {
+  color: #d4d2db;
+  font-size: 30px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.amount-container {
+  display: flex;
+  flex-direction: column;
+  margin-right: 30px;
+}
+.amount-text {
+  color: #585076;
+  font-size: 20px;
+  font-weight: bold;
+}
+.withdraw {
+  color: #d4d2db;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.choosing {
+  color: #585076;
+  font-weight: bold;
+  margin-left: 30px;
+}
+.lists-container {
+  display: flex;
+  width: 900px;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
